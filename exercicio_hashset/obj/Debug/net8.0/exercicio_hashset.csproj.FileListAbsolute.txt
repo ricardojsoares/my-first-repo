@@ -1,0 +1,14 @@
+C:\Users\ricardo.soares\CSharp\exercicio_hashset\bin\Debug\net8.0\exercicio_hashset.exe
+C:\Users\ricardo.soares\CSharp\exercicio_hashset\bin\Debug\net8.0\exercicio_hashset.deps.json
+C:\Users\ricardo.soares\CSharp\exercicio_hashset\bin\Debug\net8.0\exercicio_hashset.runtimeconfig.json
+C:\Users\ricardo.soares\CSharp\exercicio_hashset\bin\Debug\net8.0\exercicio_hashset.dll
+C:\Users\ricardo.soares\CSharp\exercicio_hashset\bin\Debug\net8.0\exercicio_hashset.pdb
+C:\Users\ricardo.soares\CSharp\exercicio_hashset\obj\Debug\net8.0\exercicio_hashset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.soares\CSharp\exercicio_hashset\obj\Debug\net8.0\exercicio_hashset.AssemblyInfoInputs.cache
+C:\Users\ricardo.soares\CSharp\exercicio_hashset\obj\Debug\net8.0\exercicio_hashset.AssemblyInfo.cs
+C:\Users\ricardo.soares\CSharp\exercicio_hashset\obj\Debug\net8.0\exercicio_hashset.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.soares\CSharp\exercicio_hashset\obj\Debug\net8.0\exercicio_hashset.dll
+C:\Users\ricardo.soares\CSharp\exercicio_hashset\obj\Debug\net8.0\refint\exercicio_hashset.dll
+C:\Users\ricardo.soares\CSharp\exercicio_hashset\obj\Debug\net8.0\exercicio_hashset.pdb
+C:\Users\ricardo.soares\CSharp\exercicio_hashset\obj\Debug\net8.0\exercicio_hashset.genruntimeconfig.cache
+C:\Users\ricardo.soares\CSharp\exercicio_hashset\obj\Debug\net8.0\ref\exercicio_hashset.dll
